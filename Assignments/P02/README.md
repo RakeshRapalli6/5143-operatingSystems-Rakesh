@@ -26,7 +26,7 @@ Then run the Walkthrough.py
 
 ***Commands***:
 
-![image](/Assignments/P02/work_distribution)
+![image](/Assignments/P02/work_distribution.jpeg)
 
 
 ***Non Working Components***
