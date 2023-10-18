@@ -61,8 +61,8 @@ class FileSystem:
     """
     This function mimicks the ls command.First the data is retrived from the file_data in the database we have created 
     using the search method and the needed columns have been added.Now the data has been added to the created columns and 
-	prints to the console as output
-	"""
+    prints to the console as output
+    """
 
     def list(self, a=False):
         # Getting the parent id from the current working directory
@@ -100,7 +100,7 @@ class FileSystem:
 
     """
     This function mimicks the command mk dir by creating a new directory and the created folder will be pushed to the 
-	table in the data base  
+    table in the data base  
     """
 
     def make_directory(self, name):
