@@ -46,7 +46,7 @@ Then run the Sim.py
  
  -> input =  input file (file.dat) format
  
- -> timedelay =  Enter desired time delay, between 0.01 to 1 0.01 being fastest speed of simulation and 1 being slowest speed
+ -> timedelay =  Enter desired time delay, between 0.01 to 1(or more), 0.01 being fastest speed of simulation and 1 being slowest speed.
 
  ***DearPyGUI***
 
