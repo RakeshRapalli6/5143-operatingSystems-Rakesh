@@ -52,5 +52,5 @@ Then run the Sim.py
 
 
  ***DearPyGui Simulation Window***
- ![image](https://github.com/divyapodila/5143-Opsys-101/blob/main/Assignments/P03/DearPyGUI_Simulation.png)
+ ![image](https://github.com/RakeshRapalli6/5143-operatingSystems-Rakesh/blob/main/Assignments/P03/DearPyGUI_Simulation.png)
 
